@@ -1,0 +1,1 @@
+Originally created for an advanced C++ course, this passion project is a fully realized Pokémon-style text adventure showcasing object-oriented design, game state management, and interactive command systems.
